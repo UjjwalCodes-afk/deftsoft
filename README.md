@@ -107,7 +107,3 @@ is excluded.
 -   MongoDB Atlas is used to share database with other developers
 
 ------------------------------------------------------------------------
-
-## Author
-
-Your Name
