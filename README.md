@@ -1,4 +1,4 @@
-# User API -- Node.js
+# User API - Node.js
 
 This project is a simple User Management API built using Node.js,
 Express, and MongoDB. It supports user authentication and CRUD
