@@ -51,7 +51,7 @@ JWT_SECRET=mysecretkey
 
 3.  Start the server
 
-npm run dev
+npm start
 
 Server will run on http://localhost:3000
 
@@ -105,5 +105,3 @@ is excluded.
 -   Passwords are stored in hashed format
 -   Email is unique for each user
 -   MongoDB Atlas is used to share database with other developers
-
-------------------------------------------------------------------------
